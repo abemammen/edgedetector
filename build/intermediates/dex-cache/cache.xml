@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abe/src/dev/EdgeDetector/app/libs/TangoSDK_Java.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42b85b6c5d980a47b6b7b66b29fe25b4f2980e40">
+        <dex dex="/Users/abe/src/dev/EdgeDetector/app/build/intermediates/pre-dexed/debug/TangoSDK_Java-ecbfb92e112c1b7e8e69b357aa52d57a623fe108.jar" />
+    </item>
+
+</items>
